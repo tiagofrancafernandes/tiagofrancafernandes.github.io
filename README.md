@@ -17,7 +17,8 @@ I live in Brazil 🇧🇷.
 [![Website](https://img.shields.io/badge/WWW--black?style=social)](https://tiagofranca.com)
 [![Youtube](https://img.shields.io/badge/-Youtube-red?style=social&logo=Youtube)](https://www.youtube.com/channel/UCaIKqUtNnZme66qHdJAhCmQ?sub_confirmation=1)
 
-
+---
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="tiago-frança" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/tiago-fran%C3%A7a/en?trk=profile-badge">Tiago França Fernandes</a></div>
 ---
 
 ### Welcome here.
